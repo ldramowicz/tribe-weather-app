@@ -7,7 +7,7 @@ Tribe Weather App by Lucas
 
 ### To clone from gitHub:
 ```
-$ git clone https://github.com/ldramowicz/tribe-weather-app
+$ git clone https://github.com/ldramowicz/tribe-weather-app.git
 ```
 
 ### Installation
